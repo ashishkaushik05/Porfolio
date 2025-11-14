@@ -1,0 +1,29 @@
+{
+  "name": "terminal-portfolio",
+  "version": "2.0.0",
+  "description": "Dual-interface portfolio with Terminal Mode and Visual Mode",
+  "main": "src/index.jsx",
+  "scripts": {
+    "build": "make build",
+    "css": "make css",
+    "dev": "make dev",
+    "clean": "make clean",
+    "serve": "npx live-server public/",
+    "start": "npm run build && npm run serve"
+  },
+  "keywords": ["portfolio", "terminal", "react", "browserify"],
+  "author": "Ashish",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "@babel/preset-react": "^7.28.5",
+    "babelify": "^10.0.0",
+    "browserify": "^17.0.1",
+    "watchify": "^4.0.0"
+  }
+}
