@@ -41,7 +41,7 @@ A unique dual-interface personal portfolio with **Terminal Mode** and **Visual M
 
 ```bash
 # Clone the repository
-git clone <https://github.com/ashishkaushik05/portfolio.git>
+git clone <https://github.com/ashishkaushik05/Porfolio.git>
 cd portfolio
 
 # Install dependencies  
@@ -327,10 +327,10 @@ MIT License - feel free to use this for your own portfolio!
 
 ## 📧 Contact
 
-**Ashish**  
-📧 Email: your.email@example.com  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)  
-💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+**Ashish Kaushik**  
+📧 Email: ashish._.kaushik@outlook.com  
+🐙 GitHub: [@ashishkaushik05](https://github.com/ashishkaushik05)  
+� Mobile: +91-7494825211
 
 ---
 

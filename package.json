@@ -3,6 +3,11 @@
   "version": "2.0.0",
   "description": "Dual-interface portfolio with Terminal Mode and Visual Mode",
   "main": "src/index.jsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishkaushik05/portfolio.git"
+  },
+  "homepage": "https://ashishkaushik05.github.io/portfolio",
   "scripts": {
     "build": "make build",
     "css": "make css",
@@ -11,8 +16,8 @@
     "serve": "npx live-server public/",
     "start": "npm run build && npm run serve"
   },
-  "keywords": ["portfolio", "terminal", "react", "browserify"],
-  "author": "Ashish",
+  "keywords": ["portfolio", "terminal", "react", "browserify", "personal-website"],
+  "author": "Ashish Kaushik <ashish._.kaushik@outlook.com>",
   "license": "MIT",
   "dependencies": {
     "react": "^19.2.0",
